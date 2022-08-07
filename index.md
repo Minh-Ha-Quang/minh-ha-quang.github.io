@@ -8,11 +8,27 @@
 
 My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving reproducing kernel Hilbert spaces (RKHS), Riemannian geometry, Matrix and Operator Theory, Information Geometry, and Optimal Transport, especially in the Infinite-Dimensional setting.
 
+
+Google Scholar profile
+
 ### News
 
 September 2022: I will be giving an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
 
+### Recent publications
+
+[Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
+
+
+### Recent activities
+
+ICML 2022: Meta-reviewer (Area Chair)
+ICLR 2022: Area Chair
+
 ### Contact
+
+[Official RIKEN website](https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/)
+[Official RIKEN-AIP website](https://aip.riken.jp/labs/generic_tech/funct_anl_learn/)
 
 I can be reached by email at minh dot haquang at the domain riken.jp
 
