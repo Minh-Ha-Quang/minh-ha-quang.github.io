@@ -17,6 +17,10 @@ September 2022: I will be giving an invited talk at [IG4DS (International Confer
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
 
+H.Q. Minh. [Entropic regularization of Wasserstein distance between infinite-dimensional Gaussian measures and Gaussian processes](https://link.springer.com/article/10.1007/s10959-022-01165-1), Journal of Theoretical Probability, 2022
+
+H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein distances between covariance operators and Gaussian processes](https://epubs.siam.org/doi/abs/10.1137/21M1410488), SIAM/ASA Journal on Uncertainty Quantification, 2022
+
 
 ### Recent activities
 
