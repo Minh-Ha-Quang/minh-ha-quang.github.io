@@ -28,6 +28,8 @@ ICML 2022: Meta-reviewer (Area Chair)
 
 ICLR 2022: Area Chair
 
+AISTATS 2022: Area Chair
+
 ### Contact
 
 [Official RIKEN website](https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/)
