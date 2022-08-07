@@ -30,6 +30,8 @@ ICLR 2022: Area Chair
 
 AISTATS 2022: Area Chair
 
+[QTML 2021 (Quantum Techniques in Machine Learning)](https://www.quantummachinelearning.org/qtml2021.html): Main Organizer
+
 ### Contact
 
 [Official RIKEN website](https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/)
