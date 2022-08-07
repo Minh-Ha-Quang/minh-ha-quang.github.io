@@ -24,6 +24,8 @@ H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein dista
 
 ### Recent activities
 
+QTML 2022: Steering Committee and Program Committee member
+
 ICML 2022: Meta-reviewer (Area Chair)
 
 ICLR 2022: Area Chair
