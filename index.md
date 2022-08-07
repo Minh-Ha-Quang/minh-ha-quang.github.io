@@ -13,7 +13,7 @@ My current research interests focus on machine learning and statistical methodol
 
 September 2022: I will be giving an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
 
-### Recent publications
+### Selected recent publications
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
 
