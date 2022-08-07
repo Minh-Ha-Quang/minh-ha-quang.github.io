@@ -1,4 +1,4 @@
-<!--## Minh Ha Quang (Ha Quang Minh)-->
+## Minh Ha Quang (Ha Quang Minh)
 
 ### Functional Analytic Learning Unit
 
