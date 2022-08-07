@@ -8,7 +8,13 @@
 
 My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving reproducing kernel Hilbert spaces (RKHS), Riemannian geometry, Matrix and Operator Theory, Information Geometry, and Optimal Transport, especially in the Infinite-Dimensional setting.
 
+### News
 
+September 2022: I will be giving an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
+
+### Contact
+
+I can be reached by email at minh dot haquang at the domain riken.jp
 
 
 <!--
