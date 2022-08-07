@@ -27,6 +27,7 @@ ICLR 2022: Area Chair
 ### Contact
 
 [Official RIKEN website](https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/)
+
 [Official RIKEN-AIP website](https://aip.riken.jp/labs/generic_tech/funct_anl_learn/)
 
 I can be reached by email at minh dot haquang at the domain riken.jp
