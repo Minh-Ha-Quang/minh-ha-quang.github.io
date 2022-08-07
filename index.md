@@ -2,7 +2,7 @@
 
 ### Functional Analytic Learning Unit
 
-## RIKEN Center for Advanced Intelligence Project, Tokyo, JAPAN
+## RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, JAPAN
 
 ### About me
 
