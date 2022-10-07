@@ -24,6 +24,15 @@ H.Q. Minh. [Convergence and finite sample approximations of entropic regularized
 
 H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein distances between covariance operators and Gaussian processes](https://epubs.siam.org/doi/abs/10.1137/21M1410488), SIAM/ASA Journal on Uncertainty Quantification, 2022
 
+H.Q. Minh. [Regularized Divergences Between Covariance Operators and Gaussian Measures on Hilbert Spaces](https://link.springer.com/article/10.1007/s10959-020-01003-2), Journal of Theoretical Probability, 2020
+
+H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite Hilbert–Schmidt operators](https://link.springer.com/article/10.1007/s11117-019-00701-4), Positvity, 2020
+
+H.Q. Minh. [Alpha-Beta Log-Determinant Divergences Between Positive Definite Trace Class Operators](https://link.springer.com/article/10.1007/s41884-019-00019-w), Information Geometry, 2019
+
+H.Q. Minh and V. Murino. [Covariances in Computer Vision and Machine Learning](https://link.springer.com/book/10.1007/978-3-031-01820-6), Springer Synthesis Lectures in Computer Vision, 2018
+
+H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite trace class operators](https://www.sciencedirect.com/science/article/pii/S0024379516304177), Linear Algebra and Its Applications, 2017
 
 ### Recent activities
 
