@@ -8,10 +8,11 @@
 
 My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving reproducing kernel Hilbert spaces (RKHS), Riemannian geometry, Matrix and Operator Theory, Information Geometry, and Optimal Transport, especially in the Infinite-Dimensional setting.
 
+I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy.
 
 ### News
 
-September 2022: I will be giving an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
+Open position in our unit: https://www.riken.jp/en/careers/researchers/20220926_2/index.html
 
 ### Selected recent publications
 
@@ -19,10 +20,16 @@ September 2022: I will be giving an invited talk at [IG4DS (International Confer
 
 H.Q. Minh. [Entropic regularization of Wasserstein distance between infinite-dimensional Gaussian measures and Gaussian processes](https://link.springer.com/article/10.1007/s10959-022-01165-1), Journal of Theoretical Probability, 2022
 
+H.Q. Minh. [Convergence and finite sample approximations of entropic regularized Wasserstein distances in Gaussian and RKHS settings](https://www.worldscientific.com/doi/10.1142/S0219530522500142), Analysis and Applications, 2022
+
 H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein distances between covariance operators and Gaussian processes](https://epubs.siam.org/doi/abs/10.1137/21M1410488), SIAM/ASA Journal on Uncertainty Quantification, 2022
 
 
 ### Recent activities
+
+September 2022: I gave an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
+
+NeurIPS 2022: Area Chair
 
 QTML 2022: Steering Committee and Program Committee member
 
