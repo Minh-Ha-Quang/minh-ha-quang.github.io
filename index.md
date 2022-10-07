@@ -12,7 +12,7 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 ### News
 
-Open position in our unit: https://www.riken.jp/en/careers/researchers/20220926_2/index.html
+Open position in our unit: [Postdoctoral researcher or Research scientist](https://www.riken.jp/en/careers/researchers/20220926_2/index.html)
 
 ### Selected recent publications
 
