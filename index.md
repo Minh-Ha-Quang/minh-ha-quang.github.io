@@ -24,6 +24,8 @@ H.Q. Minh. [Convergence and finite sample approximations of entropic regularized
 
 H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein distances between covariance operators and Gaussian processes](https://epubs.siam.org/doi/abs/10.1137/21M1410488), SIAM/ASA Journal on Uncertainty Quantification, 2022
 
+H.Q. Minh [Alpha Procrustes metrics between positive definite operators: A unifying formulation for the Bures-Wasserstein and Log-Euclidean/Log-Hilbert-Schmidt metrics](https://www.sciencedirect.com/science/article/pii/S0024379521004110), Linear Algebra and Its Applications, 2022
+
 H.Q. Minh. [Regularized Divergences Between Covariance Operators and Gaussian Measures on Hilbert Spaces](https://link.springer.com/article/10.1007/s10959-020-01003-2), Journal of Theoretical Probability, 2020
 
 H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite Hilbert–Schmidt operators](https://link.springer.com/article/10.1007/s11117-019-00701-4), Positvity, 2020
