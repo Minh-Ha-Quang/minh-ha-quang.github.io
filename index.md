@@ -30,10 +30,13 @@ H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive de
 
 H.Q. Minh. [Alpha-Beta Log-Determinant Divergences Between Positive Definite Trace Class Operators](https://link.springer.com/article/10.1007/s41884-019-00019-w), Information Geometry, 2019
 
-H.Q. Minh and V. Murino. [Covariances in Computer Vision and Machine Learning](https://link.springer.com/book/10.1007/978-3-031-01820-6), Springer Synthesis Lectures in Computer Vision, 2018
+(**Book**) H.Q. Minh and V. Murino. [Covariances in Computer Vision and Machine Learning](https://link.springer.com/book/10.1007/978-3-031-01820-6), Springer Synthesis Lectures in Computer Vision, 2018
+
+<!--
 <p align="center">
 <img src ="https://user-images.githubusercontent.com/109050754/194521639-94d63bf5-2f80-45b6-991f-babe73f8eee3.jpg" width = "150" height = "150"> 
 </p>
+-->
 
 H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite trace class operators](https://www.sciencedirect.com/science/article/pii/S0024379516304177), Linear Algebra and Its Applications, 2017
 
