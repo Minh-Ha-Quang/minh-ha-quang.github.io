@@ -1,6 +1,6 @@
 ## Minh Ha Quang (Ha Quang Minh)
 
-### Functional Analytic Learning Unit
+### Functional Analytic Learning Team
 
 ## RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, JAPAN
 
@@ -10,9 +10,6 @@ My current research interests focus on machine learning and statistical methodol
 
 I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy.
 
-### News
-
-Open position in our unit: [Postdoctoral researcher or Research scientist](https://www.riken.jp/en/careers/researchers/20220926_2/index.html)
 
 ### Selected recent publications
 
@@ -42,7 +39,15 @@ H.Q. Minh. [Alpha-Beta Log-Determinant Divergences Between Positive Definite Tra
 
 H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite trace class operators](https://www.sciencedirect.com/science/article/pii/S0024379516304177), Linear Algebra and Its Applications, 2017
 
+### Upcoming activities
+
+May 2023: I will give a tutorial talk at the [Second European Summer School on Quantum AI (EQAI 2023)](http://eqai.eu/), in Udine, Italy
+
+NeurIPS 2023: Area Chair
+
 ### Recent activities
+
+ICML 2023: Area Chair
 
 September 2022: I gave an invited talk at [IG4DS (International Conference on Information Geometry for Data Science)](https://www.dsf.tuhh.de/index.php/ig4ds/)
 
