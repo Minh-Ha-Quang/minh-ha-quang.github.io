@@ -15,9 +15,9 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
 
-H.Q. Minh. [Entropic regularization of Wasserstein distance between infinite-dimensional Gaussian measures and Gaussian processes](https://link.springer.com/article/10.1007/s10959-022-01165-1), Journal of Theoretical Probability, 2022
+H.Q. Minh. [Convergence and finite sample approximations of entropic regularized Wasserstein distances in Gaussian and RKHS settings](https://www.worldscientific.com/doi/10.1142/S0219530522500142), Analysis and Applications, 2023
 
-H.Q. Minh. [Convergence and finite sample approximations of entropic regularized Wasserstein distances in Gaussian and RKHS settings](https://www.worldscientific.com/doi/10.1142/S0219530522500142), Analysis and Applications, 2022
+H.Q. Minh. [Entropic regularization of Wasserstein distance between infinite-dimensional Gaussian measures and Gaussian processes](https://link.springer.com/article/10.1007/s10959-022-01165-1), Journal of Theoretical Probability, 2022
 
 H.Q. Minh. [Finite sample approximations of exact and entropic Wasserstein distances between covariance operators and Gaussian processes](https://epubs.siam.org/doi/abs/10.1137/21M1410488), SIAM/ASA Journal on Uncertainty Quantification, 2022
 
@@ -41,11 +41,17 @@ H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive de
 
 ### Upcoming activities
 
-May 2023: I will give a tutorial talk at the [Second European Summer School on Quantum AI (EQAI 2023)](http://eqai.eu/), in Udine, Italy
-
-NeurIPS 2023: Area Chair
+ICLR 2024: Area Chair
 
 ### Recent activities
+
+August 2023: I gave an invited talk at the minisymposium Geometric methods in machine learning and data analysis at the [10th International Congress on Industrial and Applied Mathematics (ICIAM 2023)](https://iciam2023.org/), in Tokyo, Japan
+
+June 2023: I gave an invited talk at the workshop [DEEP LEARNING: Theory, Algorithms, and Applications (DL 2023)](https://dl2023.fbk.eu/), in Trento, Italy
+
+May 2023: I gave a tutorial talk at the [Second European Summer School on Quantum AI (EQAI 2023)](http://eqai.eu/), in Udine, Italy
+
+NeurIPS 2023: Area Chair
 
 ICML 2023: Area Chair
 
