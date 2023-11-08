@@ -15,6 +15,8 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
 
+H.Q. Minh [Fisher-Rao Riemannian Geometry of Equivalent Gaussian Measures on Hilbert Space](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_41), Geometric Science of Information, 2023, [extended arxiv version](https://arxiv.org/abs/2310.10182)
+
 H.Q. Minh. [Convergence and finite sample approximations of entropic regularized Wasserstein distances in Gaussian and RKHS settings](https://www.worldscientific.com/doi/10.1142/S0219530522500142), Analysis and Applications, 2023
 
 H.Q. Minh. [Entropic regularization of Wasserstein distance between infinite-dimensional Gaussian measures and Gaussian processes](https://link.springer.com/article/10.1007/s10959-022-01165-1), Journal of Theoretical Probability, 2022
