@@ -41,6 +41,7 @@ H.Q. Minh. [Alpha-Beta Log-Determinant Divergences Between Positive Definite Tra
 
 H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite trace class operators](https://www.sciencedirect.com/science/article/pii/S0024379516304177), Linear Algebra and Its Applications, 2017
 
+H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reproducing Kernel Hilbert Spaces for Manifold Regularization and Co-Regularized Multi-view Learning](https://www.jmlr.org/papers/v17/14-036.html), Journal of Machine Learning Research, 2016
 ### Upcoming activities
 
 ICLR 2024: Area Chair
