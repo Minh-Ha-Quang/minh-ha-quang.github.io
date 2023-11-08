@@ -6,9 +6,9 @@
 
 ### About me
 
-My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving reproducing kernel Hilbert spaces (RKHS), Riemannian geometry, Matrix and Operator Theory, Information Geometry, and Optimal Transport, especially in the Infinite-Dimensional setting.
+My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving _reproducing kernel Hilbert spaces (RKHS)_, _Riemannian geometry_, _Matrix and Operator Theory_, _Information Geometry_, and _Optimal Transport_, especially in the _Infinite-Dimensional_ setting.
 
-I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy.
+I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy. Prior to Italy, I was a postdoctoral researcher at the University of Vienna, Austria, and the Humboldt University of Berlin, Germany.
 
 ### Open positions at RIKEN-AIP
 
