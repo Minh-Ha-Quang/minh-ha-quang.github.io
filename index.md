@@ -43,9 +43,11 @@ H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive de
 
 ICLR 2024: Area Chair
 
+QTML 2023 ([Quantum Techniques in Machine Learning](https://qtml-2023.web.cern.ch/)): Steering Committee and Program Committee member
+
 ### Recent activities
 
-August 2023: I gave an invited talk at the minisymposium Geometric methods in machine learning and data analysis at the [10th International Congress on Industrial and Applied Mathematics (ICIAM 2023)](https://iciam2023.org/), in Tokyo, Japan
+August 2023: I gave an invited talk at the minisymposium _Geometric methods in machine learning and data analysis_ at the [10th International Congress on Industrial and Applied Mathematics (ICIAM 2023)](https://iciam2023.org/), in Tokyo, Japan
 
 June 2023: I gave an invited talk at the workshop [DEEP LEARNING: Theory, Algorithms, and Applications (DL 2023)](https://dl2023.fbk.eu/), in Trento, Italy
 
