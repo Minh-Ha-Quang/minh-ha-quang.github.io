@@ -1,6 +1,6 @@
 ## Minh Ha Quang (Ha Quang Minh)
 
-### Functional Analytic Learning Team
+### Team Leader - Functional Analytic Learning Team
 
 ## RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, JAPAN
 
