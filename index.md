@@ -10,6 +10,9 @@ My current research interests focus on machine learning and statistical methodol
 
 I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy.
 
+### Open positions at RIKEN-AIP
+
+Please check out this [link](https://aip.riken.jp/careers/) for current openings
 
 ### Selected recent publications
 
