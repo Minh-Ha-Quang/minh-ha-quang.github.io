@@ -54,7 +54,7 @@ NeurIPS 2024: Area Chair
 
 ### Recent activities
 
-May 2024: I co-organized a gave a talk at the Second RIKEN-AIP/IIT(Istituto Italiano di Tecnologia) Joint Workshop on Artificial Intelligence and Machine Learning in Tokyo
+May 2024: I co-organized a gave a talk at the _Second RIKEN-AIP/IIT(Istituto Italiano di Tecnologia) Joint Workshop on Artificial Intelligence and Machine Learning_ in Tokyo
 
 March 2024: I co-organized and gave a talk at the worshop [DEEP LEARNING: Theory, Applications, and Implications (DL 2024)](https://sites.google.com/view/dl2024/) in Tokyo 
 
