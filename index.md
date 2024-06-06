@@ -52,6 +52,8 @@ H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reprodu
 
 NeurIPS 2024: Area Chair
 
+QTML 2024 ([Quantum Techniques in Machine Learning](https://qtml2024.org/)): Steering Committee and Program Committee member
+
 ### Recent activities
 
 May 2024: I co-organized a gave a talk at the _Second RIKEN-AIP/IIT(Istituto Italiano di Tecnologia) Joint Workshop on Artificial Intelligence and Machine Learning_ in Tokyo
