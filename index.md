@@ -56,6 +56,10 @@ QTML 2024 ([Quantum Techniques in Machine Learning](https://qtml2024.org/)): Ste
 
 ### Recent activities
 
+May 2024: I gave a talk at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/)
+
+May 2024: I gave a talk at the [Hong Kong Baptist University/RIKEN-AIP Joint Workshop on Artificial Intelligence and Machine Learning](https://www.comp.hkbu.edu.hk/aiml2024/)
+
 May 2024: I co-organized a gave a talk at the _Second RIKEN-AIP/IIT(Istituto Italiano di Tecnologia) Joint Workshop on Artificial Intelligence and Machine Learning_ in Tokyo
 
 March 2024: I co-organized and gave a talk at the worshop [DEEP LEARNING: Theory, Applications, and Implications (DL 2024)](https://sites.google.com/view/dl2024/) in Tokyo 
