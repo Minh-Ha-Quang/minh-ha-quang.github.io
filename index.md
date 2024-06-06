@@ -11,6 +11,7 @@ My current research interests focus on machine learning and statistical methodol
 I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy. Prior to Italy, I was a postdoctoral researcher at the University of Vienna, Austria, and the Humboldt University of Berlin, Germany.
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
+
 [LinkedIn profile](https://www.linkedin.com/in/minh-ha-quang-9b29506/)
 
 ### Open positions at RIKEN-AIP
