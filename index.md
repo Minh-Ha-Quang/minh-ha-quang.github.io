@@ -20,6 +20,8 @@ Please check out this [link](https://aip.riken.jp/careers/) for current openings
 
 ### Selected recent publications
 
+H.Q. Minh [Fisher–Rao geometry of equivalent Gaussian measures on infinite-dimensional Hilbert spaces](https://link.springer.com/article/10.1007/s41884-024-00137-0), Information Geometry, June 2024
+
 H.Q. Minh [Fisher-Rao Riemannian Geometry of Equivalent Gaussian Measures on Hilbert Space](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_41), Geometric Science of Information, 2023, [extended arxiv version](https://arxiv.org/abs/2310.10182)
 
 H.Q. Minh. [Convergence and finite sample approximations of entropic regularized Wasserstein distances in Gaussian and RKHS settings](https://www.worldscientific.com/doi/10.1142/S0219530522500142), Analysis and Applications, 2023
