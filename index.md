@@ -47,13 +47,24 @@ H.Q. Minh. [Alpha-Beta Log-Determinant Divergences Between Positive Definite Tra
 H.Q. Minh. [Infinite-dimensional Log-Determinant divergences between positive definite trace class operators](https://www.sciencedirect.com/science/article/pii/S0024379516304177), Linear Algebra and Its Applications, 2017
 
 H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reproducing Kernel Hilbert Spaces for Manifold Regularization and Co-Regularized Multi-view Learning](https://www.jmlr.org/papers/v17/14-036.html), Journal of Machine Learning Research, 2016
+
 ### Upcoming activities
+
+NeurIPS 2024: Area Chair
+
+### Recent activities
+
+May 2024: I co-organized a gave a talk at the Second RIKEN-AIP/IIT(Istituto Italiano di Tecnologia) Joint Workshop on Artificial Intelligence and Machine Learning in Tokyo
+
+March 2024: I co-organized and gave a talk at the worshop [DEEP LEARNING: Theory, Applications, and Implications (DL 2024)](https://sites.google.com/view/dl2024/) in Tokyo 
+
+March 2024: I co-organized the First RIKEN-AIP Retreat in Tokyo
+
+ICML 2024: Area Chair
 
 ICLR 2024: Area Chair
 
 QTML 2023 ([Quantum Techniques in Machine Learning](https://qtml-2023.web.cern.ch/)): Steering Committee and Program Committee member
-
-### Recent activities
 
 August 2023: I gave an invited talk at the minisymposium _Geometric methods in machine learning and data analysis_ at the [10th International Congress on Industrial and Applied Mathematics (ICIAM 2023)](https://iciam2023.org/), in Tokyo, Japan
 
