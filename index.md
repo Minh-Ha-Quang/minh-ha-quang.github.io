@@ -8,7 +8,7 @@
 
 My current research interests focus on machine learning and statistical methodologies using theories and techniques from Functional Analysis and related mathematical fields. In particular, I have been working on theories and methods involving _reproducing kernel Hilbert spaces (RKHS)_, _Riemannian geometry_, _Matrix and Operator Theory_, _Information Geometry_, and _Optimal Transport_, especially in the _Infinite-Dimensional_ setting.
 
-I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of Stephen Smale. Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy. Prior to Italy, I was a postdoctoral researcher at the University of Vienna, Austria, and the Humboldt University of Berlin, Germany.
+I received my PhD in mathematics from Brown University (Providence, RI, USA) and wrote my dissertation under the supervision of [Stephen Smale](https://en.wikipedia.org/wiki/Stephen_Smale). Before joining RIKEN, I was a researcher at the Pattern Analysis and Computer Vision group at the Italian Institute of Technology (Istituto Italiano di Tecnologia) in Genoa (Genova), Italy. Prior to Italy, I was a postdoctoral researcher at the University of Vienna, Austria, and the Humboldt University of Berlin, Germany.
 
 [Google Scholar profile](https://scholar.google.com/citations?user=JxhhXEsAAAAJ&hl=en)
 
@@ -54,11 +54,21 @@ H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reprodu
 
 ### Upcoming activities
 
+CVPR 2025: Area Chair
+
+ICLR 2025: Area Chair
+
 NeurIPS 2024: Area Chair
 
 QTML 2024 ([Quantum Techniques in Machine Learning](https://qtml2024.org/)): Steering Committee and Program Committee member
 
 ### Recent activities
+
+October 2024: My work is featured in the [Nature Where I Work series](https://www.nature.com/articles/d41586-024-03407-0)
+
+October 2024: I gave a talk at ENSEA, Cergy Paris University
+
+August 2024: I gave a talk at the 8th NUS-ISM-ZIB-IIR-MODAL Workshop on _Next Generation Computing and Algorithms in the Digital Era_, at [National University of Singapore](https://blog.nus.edu.sg/matcheny/djs2024/)
 
 May 2024: I gave a talk at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/)
 
@@ -69,6 +79,8 @@ May 2024: I co-organized a gave a talk at the _Second RIKEN-AIP/IIT(Istituto Ita
 March 2024: I co-organized and gave a talk at the worshop [DEEP LEARNING: Theory, Applications, and Implications (DL 2024)](https://sites.google.com/view/dl2024/) in Tokyo 
 
 March 2024: I co-organized the First RIKEN-AIP Retreat in Tokyo
+
+ECCV 2024: Area Chair
 
 ICML 2024: Area Chair
 
