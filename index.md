@@ -19,7 +19,7 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 February 2025: I gave an invited talk at the [Erwin Schrodinger Institute Thematic Program on Infinite-Dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/), Vienna, Austria
 
-December 2024: I gave an invited talk at the [Joint Meeting of the New Zealand, Australian, and American Mathematical Societies, Special Session on Recent Developments in Data Science and Machine Mearning](https://ms-meet-2024.blogs.auckland.ac.nz/)
+December 2024: I gave an invited talk at the [Joint Meeting of the New Zealand, Australian, and American Mathematical Societies, Special Session on Recent Developments in Data Science and Machine Mearning](https://ms-meet-2024.blogs.auckland.ac.nz/), Auckland, New Zealand
 
 December 2024: I gave an invited talk at the [Sydney Workshop on the Mathematics of Data Science](https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/), University of Sydney, Australia
 
