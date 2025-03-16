@@ -14,11 +14,14 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 [LinkedIn profile](https://www.linkedin.com/in/minh-ha-quang-9b29506/)
 
-### Open positions at RIKEN-AIP
-
-Please check out this [link](https://aip.riken.jp/careers/) for current openings
 
 ### News
+
+February 2025: I gave an invited talk at the [Erwin Schrodinger Institute Thematic Program on Infinite-Dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/), Vienna, Austria
+
+December 2024: I gave an invited talk at the [Joint Meeting of the New Zealand, Australian, and American Mathematical Societies, Special Session on Recent Developments in Data Science and Machine Mearning](https://ms-meet-2024.blogs.auckland.ac.nz/)
+
+December 2024: I gave an invited talk at the [Sydney Workshop on the Mathematics of Data Science](https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/), University of Sydney, Australia
 
 Otober 2024: My work is featured in the [Nature Where I Work series](https://www.nature.com/articles/d41586-024-03407-0)
 
@@ -58,6 +61,12 @@ H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reprodu
 
 ### Upcoming activities
 
+NeurIPS 2025: Area Chair
+
+ICML 2025: Area Chair
+
+### Recent activities
+
 CVPR 2025: Area Chair
 
 ICLR 2025: Area Chair
@@ -65,9 +74,6 @@ ICLR 2025: Area Chair
 NeurIPS 2024: Area Chair
 
 QTML 2024 ([Quantum Techniques in Machine Learning](https://qtml2024.org/)): Steering Committee and Program Committee member
-
-### Recent activities
-
 October 2024: I gave a talk at ENSEA, Cergy Paris University
 
 August 2024: I gave a talk at the 8th NUS-ISM-ZIB-IIR-MODAL Workshop on [Next Generation Computing and Algorithms in the Digital Era](https://blog.nus.edu.sg/matcheny/djs2024/), National University of Singapore
