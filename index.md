@@ -17,6 +17,8 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 ### News
 
+December 2025: I will give an invited talk at the [The Second Sydney Workshop on Mathematics of Data Science (Sydney-MDS 2025)](https://sydney-mds.github.io/Sydney-MDS2025/), University of Sydney, Australia
+
 February 2025: I gave an invited talk at the [Erwin Schrodinger Institute Thematic Program on Infinite-Dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/), Vienna, Austria
 
 December 2024: I gave an invited talk at the [Joint Meeting of the New Zealand, Australian, and American Mathematical Societies, Special Session on Recent Developments in Data Science and Machine Mearning](https://ms-meet-2024.blogs.auckland.ac.nz/), Auckland, New Zealand
@@ -26,6 +28,8 @@ December 2024: I gave an invited talk at the [Sydney Workshop on the Mathematics
 Otober 2024: My work is featured in the [Nature Where I Work series](https://www.nature.com/articles/d41586-024-03407-0)
 
 ### Selected recent publications
+
+
 
 H.Q. Minh [Fisher–Rao geometry of equivalent Gaussian measures on infinite-dimensional Hilbert spaces](https://link.springer.com/article/10.1007/s41884-024-00137-0), Information Geometry, June 2024
 
