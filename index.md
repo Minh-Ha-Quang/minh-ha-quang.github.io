@@ -19,6 +19,12 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 December 2025: I will give an invited talk at the [The Second Sydney Workshop on Mathematics of Data Science (Sydney-MDS 2025)](https://sydney-mds.github.io/Sydney-MDS2025/), University of Sydney, Australia
 
+July 2025: I gave an invited talk at the [Workshop on Bayesian Modeling, Computation and Applications](https://viasm.edu.vn/en/hdkh/somsaml2025-Bayesian)
+
+June 2025: I gave an invited talk at the Workshop [DL 2025: DEEP LEARNING: Theory, Algorithms, and Implications](https://dl2025.fbk.eu/), Rome, Italy
+
+May 2025: I gave an invited talk at the [Worksop NOW: Nature-Neurotechnology, Olfactory, Wellbeing - AI, Healthy Aging, Sleep, Music and Dementia Prevention](https://now.bci-lab.info/), Nicolaus Copernicus University, Torun, Poland
+
 February 2025: I gave an invited talk at the [Erwin Schrodinger Institute Thematic Program on Infinite-Dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/), Vienna, Austria
 
 December 2024: I gave an invited talk at the [Joint Meeting of the New Zealand, Australian, and American Mathematical Societies, Special Session on Recent Developments in Data Science and Machine Mearning](https://ms-meet-2024.blogs.auckland.ac.nz/), Auckland, New Zealand
@@ -29,7 +35,10 @@ Otober 2024: My work is featured in the [Nature Where I Work series](https://www
 
 ### Selected recent publications
 
+H.Q. Minh and F. Nielsen. [Geometric Jensen-Shannon Divergence Between Gaussian Measures On Hilbert Space](https://arxiv.org/abs/2506.10494), Geometric Science of Information (GSI 2025), October 2025, Saint Malo, France.
 
+Guillaume Braun, Ha Quang Minh, Masaaki Imaizumi. [Learning a Single Index Model from Anisotropic Data with Vanilla Stochastic Gradient Descent](https://proceedings.mlr.press/v258/braun25a.html).
+Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:1216-1224, 2025. 
 
 H.Q. Minh [Fisher–Rao geometry of equivalent Gaussian measures on infinite-dimensional Hilbert spaces](https://link.springer.com/article/10.1007/s41884-024-00137-0), Information Geometry, June 2024
 
