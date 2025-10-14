@@ -38,7 +38,7 @@ Otober 2024: My work is featured in the [Nature Where I Work series](https://www
 H.Q. Minh and F. Nielsen. [Geometric Jensen-Shannon Divergence Between Gaussian Measures On Hilbert Space](https://arxiv.org/abs/2506.10494), Geometric Science of Information (GSI 2025), October 2025, Saint Malo, France.
 
 Guillaume Braun, Ha Quang Minh, Masaaki Imaizumi. [Learning a Single Index Model from Anisotropic Data with Vanilla Stochastic Gradient Descent](https://proceedings.mlr.press/v258/braun25a.html).
-Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:1216-1224, 2025. 
+Proceedings of The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025), PMLR 258:1216-1224, 2025. 
 
 H.Q. Minh [Fisher–Rao geometry of equivalent Gaussian measures on infinite-dimensional Hilbert spaces](https://link.springer.com/article/10.1007/s41884-024-00137-0), Information Geometry, June 2024
 
