@@ -23,7 +23,7 @@ July 2025: I gave an invited talk at the [Workshop on Bayesian Modeling, Computa
 
 June 2025: I gave an invited talk at the Workshop [DL 2025: DEEP LEARNING: Theory, Algorithms, and Implications](https://dl2025.fbk.eu/), Rome, Italy
 
-May 2025: I gave an invited talk at the [Worksop NOW: Nature-Neurotechnology, Olfactory, Wellbeing - AI, Healthy Aging, Sleep, Music and Dementia Prevention](https://now.bci-lab.info/), Nicolaus Copernicus University, Torun, Poland
+May 2025: I gave an invited talk at the Workshop [NOW: Nature-Neurotechnology, Olfactory, Wellbeing - AI, Healthy Aging, Sleep, Music and Dementia Prevention](https://now.bci-lab.info/), Nicolaus Copernicus University, Torun, Poland
 
 February 2025: I gave an invited talk at the [Erwin Schrodinger Institute Thematic Program on Infinite-Dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/), Vienna, Austria
 
