@@ -74,17 +74,19 @@ H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reprodu
 
 ### Upcoming activities
 
-NeurIPS 2025: Area Chair
+ICLR 2026: Area Chair
 
-ICML 2025: Area Chair
+CVPR 2026: Area Chair
 
 ### Recent activities
 
 CVPR 2025: Area Chair
 
+ICML 2025: Area Chair
+
 ICLR 2025: Area Chair
 
-NeurIPS 2024: Area Chair
+NeurIPS 2024, 2025: Area Chair
 
 QTML 2024 ([Quantum Techniques in Machine Learning](https://qtml2024.org/)): Steering Committee and Program Committee member
 October 2024: I gave a talk at ENSEA, Cergy Paris University
