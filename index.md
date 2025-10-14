@@ -19,7 +19,7 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 December 2025: I will give an invited talk at the [The Second Sydney Workshop on Mathematics of Data Science (Sydney-MDS 2025)](https://sydney-mds.github.io/Sydney-MDS2025/), University of Sydney, Australia
 
-July 2025: I gave an invited talk at the [Workshop on Bayesian Modeling, Computation and Applications](https://viasm.edu.vn/en/hdkh/somsaml2025-Bayesian)
+July 2025: I gave an invited talk at the [Workshop on Bayesian Modeling, Computation and Applications](https://viasm.edu.vn/en/hdkh/somsaml2025-Bayesian), University of Economics, Ho Chi Minh City, Vietnam 
 
 June 2025: I gave an invited talk at the Workshop [DL 2025: DEEP LEARNING: Theory, Algorithms, and Implications](https://dl2025.fbk.eu/), Rome, Italy
 
