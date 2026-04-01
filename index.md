@@ -17,7 +17,7 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 ### News
 
-March 2026: I gave research seminars at the Italian Institute of Technology (IIT, Genova), Italian Institite of Artificial Intelligence for Industry (AI4I, Turin), University of Verona, and Bocconi University (Milan)
+March 2026: I gave research seminars at the Italian Institute of Technology (IIT, Genova), Italian Institute of Artificial Intelligence for Industry (AI4I, Turin), University of Verona, and Bocconi University (Milan)
 
 January 2026: Our paper, Guillaume Braun, Bruno Loureiro, Ha Quang Minh, and Masaaki Imaizumi, [Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval under Power-Law Data](https://arxiv.org/abs/2511.18661), has been accepted for **oral presentation** at the [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/), Rio de Janeiro, Brazil
 
