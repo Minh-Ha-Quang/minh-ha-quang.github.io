@@ -84,6 +84,12 @@ H.Q. Minh, L. Bazzani, V. Murino. [A Unifying Framework in Vector-valued Reprodu
 
 ### Upcoming activities
 
+NeurIPS 2026: Area Chair
+
+ECCV 2026: Area Chair
+
+ICML 2026: Area Chair
+
 ICLR 2026: Area Chair
 
 CVPR 2026: Area Chair
