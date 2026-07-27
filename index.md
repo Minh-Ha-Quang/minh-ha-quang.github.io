@@ -17,11 +17,17 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 ### News
 
+July 2026: I gave lectures at the [SCIENTIFIC RESEARCH TALENT CAMP](https://vinif.org/wp-content/uploads/2026/05/SCIENTIFIC-RESEARCH-TALENT-CAMP_MathAIData.pdf), Vin Innovation Foundation, Hanoi, Vietnam
+
+June 2026: I gave an invited talk at the Workshop [DL 2026: DEEP LEARNING: Theory, Algorithms, and Implications](https://www.dl2026.org/), UiT The Arctic University of Norway, Tromso, Norway
+
+May 2006: I gave an invited talk at the Workshop [Geometry and Machine Learning](https://sites.google.com/view/geometryandmachinelearning/home), Vienna, Austria
+
 March 2026: I gave research seminars at the Italian Institute of Technology (IIT, Genova), Italian Institute of Artificial Intelligence for Industry (AI4I, Turin), University of Verona, and Bocconi University (Milan)
 
 January 2026: Our paper, Guillaume Braun, Bruno Loureiro, Ha Quang Minh, and Masaaki Imaizumi, [Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval under Power-Law Data](https://arxiv.org/abs/2511.18661), has been accepted for **oral presentation** at the [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/), Rio de Janeiro, Brazil
 
-December 2025: I will give an invited talk at the [The Second Sydney Workshop on Mathematics of Data Science (Sydney-MDS 2025)](https://sydney-mds.github.io/Sydney-MDS2025/), University of Sydney, Australia
+December 2025: I gave an invited talk at the [The Second Sydney Workshop on Mathematics of Data Science (Sydney-MDS 2025)](https://sydney-mds.github.io/Sydney-MDS2025/), University of Sydney, Australia
 
 July 2025: I gave an invited talk at the [Workshop on Bayesian Modeling, Computation and Applications](https://viasm.edu.vn/en/hdkh/somsaml2025-Bayesian), University of Economics, Ho Chi Minh City, Vietnam 
 
