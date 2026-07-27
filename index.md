@@ -1,5 +1,8 @@
 ## Minh Ha Quang (Ha Quang Minh)
 
+<img width="120" height="160" alt="Ha_Quang_Minh_RIKEN" src="https://github.com/user-attachments/assets/009a2ab2-e640-49fd-9f91-d518244383cd" />
+
+
 ### Senior Research Scientist
 
 ## RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, JAPAN
