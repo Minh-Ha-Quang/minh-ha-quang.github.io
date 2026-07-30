@@ -20,6 +20,8 @@ I received my PhD in mathematics from Brown University (Providence, RI, USA) and
 
 ### News
 
+July 2026: I gave two lectures at the [RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences](https://ithems.riken.jp/en/events/an-optimal-transport-and-information-geometric-framework-for-infinite-dimensional-gaussian-measures-and-gaussian-processes-i), Wako, Saitama, Japan
+
 July 2026: I gave lectures at the [SCIENTIFIC RESEARCH TALENT CAMP](https://vinif.org/wp-content/uploads/2026/05/SCIENTIFIC-RESEARCH-TALENT-CAMP_MathAIData.pdf), Vin Innovation Foundation, Hanoi, Vietnam
 
 June 2026: I gave an invited talk at the Workshop [DL 2026: DEEP LEARNING: Theory, Algorithms, and Implications](https://www.dl2026.org/), UiT The Arctic University of Norway, Tromso, Norway
